@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![dev4traders](./logo.jpg)
+![Logo](./logo.jog)
 
 </h1>
 
