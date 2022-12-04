@@ -1,9 +1,3 @@
-<h1 align="center">
-
-![Logo](./logo.jog)
-
-</h1>
-
 ---
 
 
